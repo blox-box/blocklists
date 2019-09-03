@@ -1,14 +1,14 @@
-fbcdn.net
-facebook.com
-messenger.com
-m.me
-instagram.com
-instagramstatic-a.akamaihd.net
-instagramstatic-a.akamaihd.net.edgesuite.net
-tfbnw.net
-cdninstagram.com
-whatsapp.com
-connect.facebook.net.edgekey.net
-fbsbx.com
-fb.me
-fb.com
+0.0.0.0 fbcdn.net
+0.0.0.0 facebook.com
+0.0.0.0 messenger.com
+0.0.0.0 m.me
+0.0.0.0 instagram.com
+0.0.0.0 instagramstatic-a.akamaihd.net
+0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
+0.0.0.0 tfbnw.net
+0.0.0.0 cdninstagram.com
+0.0.0.0 whatsapp.com
+0.0.0.0 connect.facebook.net.edgekey.net
+0.0.0.0 fbsbx.com
+0.0.0.0 fb.me
+0.0.0.0 fb.com
